@@ -63,7 +63,7 @@ export default function Footer() {
 
           <p>
             <i className="bi bi-telephone me-2"></i>
-            +91 98765 43210
+            +91 11111 00000
           </p>
 
           <p>
